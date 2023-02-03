@@ -1,5 +1,5 @@
-# Tetris-JavaSwing
-Classic Tetris Game
+# Tetris Project
+Classic Tetris Game implementations using Java Swing.
 
 # Screenshots :
 
